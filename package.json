@@ -1,0 +1,19 @@
+{
+  "name": "express-typescript-prime-calculator",
+  "version": "1.0.0",
+  "description": "A prime number calculator api written in Express + TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joefoxdevelopment/express-typescript-prime-calculator.git"
+  },
+  "author": "Joe Fox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joefoxdevelopment/express-typescript-prime-calculator/issues"
+  },
+  "homepage": "https://github.com/joefoxdevelopment/express-typescript-prime-calculator#readme"
+}
