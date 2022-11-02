@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/joefoxdevelopment/express-typescript-prime-calculator/issues"
   },
-  "homepage": "https://github.com/joefoxdevelopment/express-typescript-prime-calculator#readme"
+  "homepage": "https://github.com/joefoxdevelopment/express-typescript-prime-calculator#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
